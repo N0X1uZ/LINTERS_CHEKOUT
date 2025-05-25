@@ -22,6 +22,8 @@
     "connector": {
       "name": "jsdom"
     },
-    "extends": ["web-recommended"]
+    "extends": [
+      "web-recommended"
+    ]
   }
 }
